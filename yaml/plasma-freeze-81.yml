@@ -1,0 +1,94 @@
+---
+id: bw9-81
+name: Dratini
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '50'
+types:
+- Dragon
+evolvesTo:
+- Dragonair
+attacks:
+- name: Shed Skin
+  cost:
+  - Grass
+  convertedEnergyCost: 1
+  damage: ''
+  text: Heal 20 damage from this Pokémon.
+- name: Tail Smack
+  cost:
+  - Lightning
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: ''
+weaknesses:
+- type: Dragon
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: bw9
+  name: Plasma Freeze
+  series: Black & White
+  printedTotal: 116
+  total: 122
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: PLF
+  releaseDate: 2013/05/08
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/bw9/symbol.png
+    logo: https://images.pokemontcg.io/bw9/logo.png
+number: '81'
+artist: Atsuko Nishida
+rarity: Common
+flavorText: It is called the "Mirage Pokémon" because so few have seen it. Its shed
+  skin has been found.
+nationalPokedexNumbers:
+- 147
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/bw9/81.png
+  large: https://images.pokemontcg.io/bw9/81_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/bw9-81
+  updatedAt: 2023/09/13
+  prices:
+    normal:
+      low: 0.22
+      mid: 0.26
+      high: 2.65
+      market: 0.25
+      directLow: 
+    reverseHolofoil:
+      low: 0.5
+      mid: 1.13
+      high: 2.75
+      market: 2.3
+      directLow: 2.75
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/bw9-81
+  updatedAt: 2023/09/13
+  prices:
+    averageSellPrice: 0.18
+    lowPrice: 0.02
+    trendPrice: 0.19
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.75
+    reverseHoloLow: 0.05
+    reverseHoloTrend: 1.05
+    lowPriceExPlus: 0.02
+    avg1: 0.1
+    avg7: 0.23
+    avg30: 0.15
+    reverseHoloAvg1: 0.75
+    reverseHoloAvg7: 1.09
+    reverseHoloAvg30: 0.85
